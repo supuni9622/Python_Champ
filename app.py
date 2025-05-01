@@ -203,6 +203,16 @@ names[1] = "Jonathan"
 print("names: ", names, names[1])
 print("Range of names in the list: ", names[0:3])
 
+number_list = [1,2,3,4,5, 3, 10,1]
+
+# find the max number
+
+for number in number_list:
+    max_number=0
+    if max_number < number:
+        max_number = number
+    print(max_number)
+
 # List Methods
 
 elements = [1,2,3,4,5]
