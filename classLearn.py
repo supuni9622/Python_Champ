@@ -50,3 +50,7 @@ my_cat.meow()
 my_elephant = Elephant()
 my_elephant.walk()
 
+
+def add(a, b):
+    print(a + b)
+

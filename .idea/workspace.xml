@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="119c1c8c-1c9c-49b5-922f-74b103cb1af8" name="Changes" comment="Created emoji convertor">
-      <change afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="119c1c8c-1c9c-49b5-922f-74b103cb1af8" name="Changes" comment="Learnt about classes">
+      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/classLearn.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +57,7 @@
     "Python.exceptions.executor": "Run",
     "Python.guessingGame.executor": "Run",
     "Python.list.executor": "Run",
+    "Python.modules.executor": "Run",
     "Python.pattern.executor": "Run",
     "Python.unpacking.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1745130162222</updated>
       <workItem from="1745130162225" duration="15584000" />
-      <workItem from="1746080096475" duration="12081000" />
+      <workItem from="1746080096475" duration="12481000" />
     </task>
     <task id="LOCAL-00001" summary="First python codes">
       <option name="closed" value="true" />
@@ -128,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746092967548</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Learnt about classes">
+      <option name="closed" value="true" />
+      <created>1746094014593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746094014593</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,12 +160,14 @@
     <MESSAGE value="Modification" />
     <MESSAGE value="Created some patterns" />
     <MESSAGE value="Created emoji convertor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created emoji convertor" />
+    <MESSAGE value="Learnt about classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learnt about classes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$list.coverage" NAME="list Coverage Results" MODIFIED="1746086985179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$guessingGame.coverage" NAME="guessingGame Coverage Results" MODIFIED="1746082196602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$unpacking.coverage" NAME="unpacking Coverage Results" MODIFIED="1746087398047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$modules.coverage" NAME="modules Coverage Results" MODIFIED="1746094361471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$pattern.coverage" NAME="pattern Coverage Results" MODIFIED="1746086248186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$app.coverage" NAME="app Coverage Results" MODIFIED="1745149805641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject$dictoneries.coverage" NAME="dictoneries Coverage Results" MODIFIED="1746088800391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
